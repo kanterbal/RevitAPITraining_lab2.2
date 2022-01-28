@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab2.2.dll"</Assembly>		
+		<AddInId>50ECC058-C051-4A0E-B91F-23C2413DB81C</AddInId>
+		<FullClassName>RevitAPITraining_lab2._2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество труб на активном виде</Text>
+	</AddIn>
+</RevitAddIns>
