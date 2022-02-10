@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab2.2.dll"</Assembly>		
-		<AddInId>50ECC058-C051-4A0E-B91F-23C2413DB81C</AddInId>
+		<AddInId>41AB599A-1D17-41D5-8AA0-018B20620E3A</AddInId>
 		<FullClassName>RevitAPITraining_lab2._2.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
 		<Text>Количество труб на активном виде</Text>
